@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198487718440",
+    "firebase_url": "https://ghurefiribangladesh-e7ef2.firebaseio.com",
+    "project_id": "ghurefiribangladesh-e7ef2",
+    "storage_bucket": "ghurefiribangladesh-e7ef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198487718440:android:48114a333a229143c7931d",
+        "android_client_info": {
+          "package_name": "com.example.ghurefiribangladesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198487718440-ioqi3bk1gp2bdafioik3qjqnn9c9p7pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LqCQ7ZA1_Ksl1FE8HMMs7exSA_T7-UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198487718440-ioqi3bk1gp2bdafioik3qjqnn9c9p7pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
